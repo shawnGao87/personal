@@ -1,0 +1,10 @@
+
+#bg_vid {
+    background: -moz-linear-gradient(359deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 19%, rgba(0,0,0,1) 28%, rgba(41,51,92,1) 69%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(0,0,0,1)), color-stop(19%, rgba(0,0,0,1)), color-stop(28%, rgba(0,0,0,1)), color-stop(69%, rgba(41,51,92,1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(359deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 19%, rgba(0,0,0,1) 28%, rgba(41,51,92,1) 69%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(359deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 19%, rgba(0,0,0,1) 28%, rgba(41,51,92,1) 69%); /* opera 11.10+ */
+    background: -ms-linear-gradient(359deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 19%, rgba(0,0,0,1) 28%, rgba(41,51,92,1) 69%); /* ie10+ */
+    background: linear-gradient(91deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 19%, rgba(0,0,0,1) 28%, rgba(41,51,92,1) 69%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#29335c',GradientType=1 ); /* ie6-9 */
+}
